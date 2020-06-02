@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>spark-mllib_2.10</name>
+	<comment>The Apache Software Foundation provides support for the Apache community of open-source software projects.
+    The Apache projects are characterized by a collaborative, consensus based development process, an open and
+    pragmatic software license, and a desire to create high quality software that leads the way in its field.
+    We consider ourselves not simply a group of projects sharing a server, but rather a community of developers
+    and users. NO_M2ECLIPSE_SUPPORT: Project files created with the maven-eclipse-plugin are not supported in M2Eclipse.</comment>
+	<projects>
+		<project>spark-core_2.10</project>
+		<project>spark-network-common_2.10</project>
+		<project>spark-network-shuffle_2.10</project>
+		<project>spark-streaming_2.10</project>
+		<project>spark-sql_2.10</project>
+		<project>spark-catalyst_2.10</project>
+		<project>spark-graphx_2.10</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.scala-ide.sdt.core.scalabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.scala-ide.sdt.core.scalanature</nature>
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+</projectDescription>
