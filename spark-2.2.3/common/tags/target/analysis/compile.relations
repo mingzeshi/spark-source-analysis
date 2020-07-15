@@ -1,0 +1,40 @@
+products:
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\AlphaComponent.java -> D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\target\scala-2.11\classes\org\apache\spark\annotation\AlphaComponent.class
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\DeveloperApi.java -> D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\target\scala-2.11\classes\org\apache\spark\annotation\DeveloperApi.class
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\Experimental.java -> D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\target\scala-2.11\classes\org\apache\spark\annotation\Experimental.class
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\InterfaceStability.java -> D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\target\scala-2.11\classes\org\apache\spark\annotation\InterfaceStability$Evolving.class
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\InterfaceStability.java -> D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\target\scala-2.11\classes\org\apache\spark\annotation\InterfaceStability$Stable.class
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\InterfaceStability.java -> D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\target\scala-2.11\classes\org\apache\spark\annotation\InterfaceStability$Unstable.class
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\InterfaceStability.java -> D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\target\scala-2.11\classes\org\apache\spark\annotation\InterfaceStability.class
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\Private.java -> D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\target\scala-2.11\classes\org\apache\spark\annotation\Private.class
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\scala\org\apache\spark\annotation\package.scala -> D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\target\scala-2.11\classes\org\apache\spark\annotation\package$.class
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\scala\org\apache\spark\annotation\package.scala -> D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\target\scala-2.11\classes\org\apache\spark\annotation\package.class
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\scala\org\apache\spark\annotation\Since.scala -> D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\target\scala-2.11\classes\org\apache\spark\annotation\Since.class
+binary dependencies:
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\AlphaComponent.java -> D:\WorkApplication\j2se8\jdk\jre\lib\rt.jar
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\DeveloperApi.java -> D:\WorkApplication\j2se8\jdk\jre\lib\rt.jar
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\Experimental.java -> D:\WorkApplication\j2se8\jdk\jre\lib\rt.jar
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\InterfaceStability.java -> D:\WorkApplication\j2se8\jdk\jre\lib\rt.jar
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\Private.java -> D:\WorkApplication\j2se8\jdk\jre\lib\rt.jar
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\scala\org\apache\spark\annotation\package.scala -> D:\WorkApplication\j2se8\jdk\jre\lib\rt.jar
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\scala\org\apache\spark\annotation\Since.scala -> D:\WorkApplication\apache-maven-3.3.9\myRepository\org\scala-lang\scala-library\2.11.8\scala-library-2.11.8.jar
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\scala\org\apache\spark\annotation\Since.scala -> D:\WorkApplication\j2se8\jdk\jre\lib\rt.jar
+source dependencies:
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\AlphaComponent.java -> D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\AlphaComponent.java
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\DeveloperApi.java -> D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\DeveloperApi.java
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\Experimental.java -> D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\Experimental.java
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\InterfaceStability.java -> D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\InterfaceStability.java
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\Private.java -> D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\Private.java
+external dependencies:
+class names:
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\AlphaComponent.java -> org.apache.spark.annotation.AlphaComponent
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\DeveloperApi.java -> org.apache.spark.annotation.DeveloperApi
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\Experimental.java -> org.apache.spark.annotation.Experimental
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\InterfaceStability.java -> org.apache.spark.annotation.InterfaceStability
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\InterfaceStability.java -> org.apache.spark.annotation.InterfaceStability$Evolving
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\InterfaceStability.java -> org.apache.spark.annotation.InterfaceStability$Stable
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\InterfaceStability.java -> org.apache.spark.annotation.InterfaceStability$Unstable
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\java\org\apache\spark\annotation\Private.java -> org.apache.spark.annotation.Private
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\scala\org\apache\spark\annotation\package.scala -> org.apache.spark.annotation.package
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\scala\org\apache\spark\annotation\package.scala -> org.apache.spark.annotation.package$
+   D:\source-code-analysis\spark-source-analysis\spark-2.2.3\common\tags\src\main\scala\org\apache\spark\annotation\Since.scala -> org.apache.spark.annotation.Since

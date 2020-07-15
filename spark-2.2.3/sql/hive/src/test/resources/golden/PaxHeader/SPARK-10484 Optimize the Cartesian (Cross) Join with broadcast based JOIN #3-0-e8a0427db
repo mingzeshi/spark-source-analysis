@@ -1,0 +1,7 @@
+168 path=spark-2.2.3/sql/hive/src/test/resources/golden/SPARK-10484 Optimize the Cartesian (Cross) Join with broadcast based JOIN #3-0-e8a0427dbde35eea6011144443e5ffb4
+30 mtime=1546895803.350991545
+30 ctime=1546895803.351065474
+30 atime=1546895803.350893536
+23 SCHILY.dev=16777220
+23 SCHILY.ino=24463267
+18 SCHILY.nlink=1

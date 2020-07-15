@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16b0d401-9d29-4034-9a87-643c575ce396" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../WorkApplication/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\WorkApplication\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ei4qjVAVOxFgEcrZXn1i1Hk3ea" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Scala" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16b0d401-9d29-4034-9a87-643c575ce396" name="Default Changelist" comment="" />
+      <created>1594791271074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594791271074</updated>
+      <workItem from="1594791279488" duration="299000" />
+      <workItem from="1594791595089" duration="351000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="703" y="439" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1594791719290">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="703" y="439" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1920.1050/-1920.1.1920.1080@0.0.1920.1050" timestamp="1594791719290" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1594791414439">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/-1920.1.1920.1080@0.0.1920.1050" timestamp="1594791414439" />
+    <state x="461" y="169" key="SettingsEditor" timestamp="1594791833565">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050/-1920.1.1920.1080@0.0.1920.1050" timestamp="1594791833565" />
+    <state x="661" y="228" width="598" height="594" key="find.popup" timestamp="1594791875503">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="661" y="228" width="598" height="594" key="find.popup/0.0.1920.1050/-1920.1.1920.1080@0.0.1920.1050" timestamp="1594791875503" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1594791911230">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/-1920.1.1920.1080@0.0.1920.1050" timestamp="1594791911230" />
+  </component>
+</project>

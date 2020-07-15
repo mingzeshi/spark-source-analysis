@@ -1,0 +1,7 @@
+160 path=spark-2.2.3/sql/hive/src/test/resources/golden/Partition pruning - with filter on string partition key - query test-0-b6e59464383591f02408f8765ac6a5d5
+30 mtime=1546895804.188476479
+30 ctime=1546895804.188583344
+30 atime=1546895804.188352827
+23 SCHILY.dev=16777220
+23 SCHILY.ino=24466347
+18 SCHILY.nlink=1
